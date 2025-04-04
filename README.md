@@ -41,3 +41,11 @@ To bridge the healthcare gap in rural areas, our approach includes:
 git clone https://github.com/PRIYA-7814/rural-healthcare-access.git
 cd rural-healthcare-access
 pip install -r requirements.txt
+## 👥 Team Members
+
+- Priya Gautam - project leader, Frontend developer
+- Pranit Sharma- Backend Developer
+- Rohit Dhaiya  - UI/UX Designer
+
+
+
