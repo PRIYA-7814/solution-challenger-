@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 - Priya Gautam - project leader, Frontend developer
 - Pranit Sharma- Backend Developer
-- Rohit Dhaiya  - UI/UX Designer
+- Rohit Dahiya  - UI/UX Designer
 
 
 
