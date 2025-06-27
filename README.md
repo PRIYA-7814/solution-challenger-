@@ -43,7 +43,7 @@ cd rural-healthcare-access
 pip install -r requirements.txt
 ## 👥 Team Members
 
-- Priya Gautam - project leader, Frontend developer
+- Priya  - project leader, Frontend developer
 - Pranit Sharma- Backend Developer
 - Rohit Dahiya  - UI/UX Designer
 
